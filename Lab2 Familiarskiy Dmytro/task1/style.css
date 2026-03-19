@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+p {
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+.selected {
+    background-color: yellow;
+}
